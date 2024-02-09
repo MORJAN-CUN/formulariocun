@@ -1,0 +1,7 @@
+.card_dashb{
+    border: 1px solid #000;
+}
+
+.card_dashb:hover{
+    border: 2px solid #54A22F;
+}
